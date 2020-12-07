@@ -1,4 +1,4 @@
-# codeBrew
+# CodeBrew-Hackathon
 
 To run this code you need :
 
