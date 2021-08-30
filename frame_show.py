@@ -3,7 +3,7 @@
 """
 Created on Sat Sep 26 17:02:11 2020
 
-@author: ghaidaa
+@author: Avinash
 """
 import cv2
 from detect_mask import mask_detection_image
